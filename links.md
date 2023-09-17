@@ -7,3 +7,9 @@ permalink: LINKS/
 1. (https://www.geeksforgeeks.org/linux-tutorial/)
 The website is dedicated to tutorials for using Linux, especially for beginners.
 It provides detailed instructions, general information, and the history of Linux. It is easy to read and comprehensive.
+
+2. (https://www.tutorialspoint.com/difference-between-private-key-and-public-key#:~:text=To%20conclude%2C%20private%20keys%20can,freely%20circulated%20among%20multiple%20users)
+This website explains public keys and private keys in detail, it  assists me in distinguishing between a public key and a private key by providing a detailed breakdown of their differences
+
+3. (https://www.guru99.com/linux-commands-cheat-sheet.html)
+This website provides information about linux commands which assists me in using linux effectively and serves as a helpful reminder when I need to recall different commands. It provides detailed information in a format that is easy for users to understand
