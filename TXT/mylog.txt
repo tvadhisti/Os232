@@ -18,4 +18,4 @@ ZCZC W02 25 L01 SCELE related
 ZCZC W02 100 L02 CLASSROOM related
 ZCZC W02 80 L03 Github related
 ZCZC W02 12 L05 QUIZ
-ZCZC W02 130 Weekly Assignments
+ZCZC W02 140 Weekly Assignments
