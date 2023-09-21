@@ -4,14 +4,14 @@ permalink: LINKS/
 
 # LINKS
 
-## WEEK 0
+### WEEK 0
 1. (https://www.geeksforgeeks.org/linux-tutorial/)
 The website is dedicated to tutorials for using Linux, especially for beginners.
 It provides detailed instructions, general information, and the history of Linux. It is easy to read and comprehensive.
 
 ___
 
-# WEEK 1
+### WEEK 1
 1. (https://www.tutorialspoint.com/difference-between-private-key-and-public-key#:~:text=To%20conclude%2C%20private%20keys%20can,freely%20circulated%20among%20multiple%20users)
 This website explains public keys and private keys in detail, it  assists me in distinguishing between a public key and a private key by providing a detailed breakdown of their differences
 
@@ -20,6 +20,6 @@ This website provides information about linux commands which assists me in using
 
 ___
 
-## WEEK2
+### WEEK2
 1. (https://www.linuxfordevices.com/tutorials/linux/nano-editor-vs-vim-editor)
 This website explains the differences between Vim and Nano, clearly illustrating them from different aspects to assist us in understanding. It also offers a tutorial website link for both text editors, making it easy for us to learn and master these tools effectively
