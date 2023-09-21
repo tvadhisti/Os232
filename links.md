@@ -20,6 +20,6 @@ This website provides information about linux commands which assists me in using
 
 ___
 
-### WEEK2
+### WEEK 2
 1. (https://www.linuxfordevices.com/tutorials/linux/nano-editor-vs-vim-editor)
 This website explains the differences between Vim and Nano, clearly illustrating them from different aspects to assist us in understanding. It also offers a tutorial website link for both text editors, making it easy for us to learn and master these tools effectively
