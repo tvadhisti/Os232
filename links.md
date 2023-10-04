@@ -24,3 +24,8 @@ This website assists me in understanding the file system. It also provides infor
 6. (https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)
 It provides further explanation about the directory structure. I gained a clear understanding of both single level and double level directories. Additionally, it includes illustrations that helped me gain a clearer understanding
 
+7. (https://www.geeksforgeeks.org/c-programming-language/)
+It gives us a comprehensive overview of the C language and provides explanations about C in various ways. It offers detailed information about C, making it easier for me to understand.
+
+8. (https://www.osc.edu/book/export/html/3019)
+this website is pretty straightforward, offering a thorough tutorial on tar that covers both its creation and maintenance
