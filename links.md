@@ -28,4 +28,4 @@ It provides further explanation about the directory structure. I gained a clear 
 It gives us a comprehensive overview of the C language and provides explanations about C in various ways. It offers detailed information about C, making it easier for me to understand.
 
 8. (https://www.osc.edu/book/export/html/3019)
-this website is pretty straightforward, offering a thorough tutorial on tar that covers both its creation and maintenance
+This website is pretty straightforward, offering a thorough tutorial on tar that covers both its creation and maintenance
