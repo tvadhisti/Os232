@@ -29,3 +29,11 @@ It gives us a comprehensive overview of the C language and provides explanations
 
 8. (https://www.osc.edu/book/export/html/3019)
 This website is pretty straightforward, offering a thorough tutorial on tar that covers both its creation and maintenance
+
+9. (https://medium.com/@GalarnykMichael/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
+The website provides a quick cheatsheet for getting started with GNU Privacy Guard (GPG), a free encryption software. It offers instructions for installing GPG on different operating systems, including Mac, Windows, Debian. The website provides concise and straightforward instructions to use GPG.
+
+10. (https://www.baeldung.com/cs/big-endian-vs-little-endian)
+the website offers a comprehensive explanation of endianness and its significance in computing, covering its historical origins and practical applications.
+
+
