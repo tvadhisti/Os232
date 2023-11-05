@@ -36,4 +36,8 @@ The website provides a quick cheatsheet for getting started with GNU Privacy Gua
 10. (https://www.baeldung.com/cs/big-endian-vs-little-endian)
 the website offers a comprehensive explanation of endianness and its significance in computing, covering its historical origins and practical applications.
 
+11. (https://www.youtube.com/watch?v=cex9XrZCU14)
+Learn how to use the fork function to work with many threads and processes in C.
 
+12. (https://www.youtube.com/watch?v=IKG1P4rgm54)
+This video explains how threads and processes differ in how they work and share memory. It makes it simple for me to understand these differences.
