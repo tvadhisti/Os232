@@ -41,3 +41,10 @@ Learn how to use the fork function to work with many threads and processes in C.
 
 12. (https://www.youtube.com/watch?v=IKG1P4rgm54)
 This video explains how threads and processes differ in how they work and share memory. It makes it simple for me to understand these differences.
+
+13. (https://www.youtube.com/watch?v=a1eLHscKN2k)
+The video walks you through the essentials of using the SCP command to move files between machines. It also offers tips on troubleshooting common issues that might arise along the way.
+
+14. (https://www.youtube.com/watch?v=uHtzOFwgD74)
+The video introduces shared memory systems, breaking down their features and functions with the help of a diagram.
+
