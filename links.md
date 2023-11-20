@@ -48,3 +48,9 @@ The video walks you through the essentials of using the SCP command to move file
 14. (https://www.youtube.com/watch?v=uHtzOFwgD74)
 The video introduces shared memory systems, breaking down their features and functions with the help of a diagram.
 
+15. (https://id.wikipedia.org/wiki/Linux_From_Scratch)
+The website talks about the Linux From Scratch (LFS) project, which involves building a Linux system from source. It also mentions related projects such as Cross Linux from Scratch (CLFS), Hardened Linux From Scratch (HLFS). The explanations on the website are clear and detailed.
+
+16. (https://www.youtube.com/watch?v=1eOdaXS-wVE)
+The video discusses the speaker's experience with the Linux from Scratch (LFS) project. He also mentions the valuable information he has learned from his experience with LFS.
+
