@@ -4,7 +4,7 @@
 ZCZC W09 10 L43 TXT/myrank.tex related, including peer review
 ZCZC W09 30 L01 SCELE related
 ZCZC W09 90 L03 Github related
-ZCZC W09 7 L05 QUIZ
+ZCZC W09 07 L05 QUIZ
 ZCZC W09 10 L41 TXT/mylog.txt related
 ZCZC W09 20 L06 References/Books/GSGS relate
 ZCZC W09 50 L08 OS Chat related
@@ -13,7 +13,7 @@ ZCZC W09 280 L17  Weekly Assignments
 ZCZC W09 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W08 40 L01 SCELE related
 ZCZC W08 80 L03 Github related
-ZCZC W08 7 L05 QUIZ
+ZCZC W08 07 L05 QUIZ
 ZCZC W08 15 L41 TXT/mylog.txt related
 ZCZC W08 40 L06 References/Books/GSGS relate
 ZCZC W08 60 L08 OS Chat related
