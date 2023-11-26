@@ -54,3 +54,8 @@ The website talks about the Linux From Scratch (LFS) project, which involves bui
 16. (https://www.youtube.com/watch?v=1eOdaXS-wVE)
 The video discusses the speaker's experience with the Linux from Scratch (LFS) project. He also mentions the valuable information he has learned from his experience with LFS.
 
+17. (https://www.youtube.com/watch?v=2wSJREC7RV8)
+This video outlines the constraints of the root directory. The speaker then delves into detailing the utilization of chroot to operate an Ubuntu installation with constrained access to external resources. It is such an informative and instructive video.
+
+18. (https://www.youtube.com/watch?v=UP7z7UwI8qM)
+In this video, he guides us step by step through the installation of extra packages. This video can be another reference, complementing the Kernotex version.
